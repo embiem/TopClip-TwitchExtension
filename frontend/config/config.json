@@ -1,0 +1,11 @@
+{
+  "": {
+    "CLIENT_ID": "<your client id>"
+  },
+  "production": {
+    "EBS_URI": "<your prod ebs uri>"
+  },
+  "development": {
+    "EBS_URI": "http://localhost:4444"
+  }
+}

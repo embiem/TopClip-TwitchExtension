@@ -1,0 +1,14 @@
+body {
+  font: 12px arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.show-on-hover {
+  opacity: 0;
+  transition: opacity 0.4s ease-out;
+}
+
+.show-on-hover:hover {
+  opacity: 1;
+}

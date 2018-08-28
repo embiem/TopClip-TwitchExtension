@@ -1,0 +1,18 @@
+body {
+  font: 14px arial, sans-serif;
+  background: none!important;
+  padding: 12px;
+  margin: 0;
+}
+
+.config {
+  font-weight: 900;
+  color: #272727;
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.07);
+  letter-spacing: -1px;
+}
+
+.error-msg {
+  color: red;
+  margin: 0.3rem;
+}

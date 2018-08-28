@@ -1,0 +1,20 @@
+{
+  "": {
+    "SECRET": "blToxe9ymiKPO8z/Xi5YJrpyRcPxjTqa04oZl+acw5Y=",
+    "USER_ID": "53928333",
+    "CLIENT_ID": "rh6jq1q334hqc2rr1qlzqbvwlfl3x0"
+  },
+  "test": {
+    "PORT": 4444
+  },
+  "development": {
+    "PORT": 4444,
+    "REDIS_HOST": "localhost",
+    "REDIS_PORT": 32768
+  },
+  "production": {
+    "PORT": 8081,
+    "REDIS_HOST": "localhost",
+    "REDIS_PORT": 6379
+  }
+}

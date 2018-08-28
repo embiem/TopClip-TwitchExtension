@@ -1,0 +1,12 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 9,
+    "sourceType": "module"
+  },
+  "plugins": ["node"],
+  "extends": ["eslint:recommended", "plugin:node/recommended"],
+  "rules": {
+      "no-console": "off",
+      "node/no-unsupported-features": "off"
+  }
+}
